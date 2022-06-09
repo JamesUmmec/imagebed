@@ -2,6 +2,9 @@
 
 Store images and provide links for other repos.
 
+This is a public repo but it is for private use.
+Please do not pr in this repo.
+
 ## Images names rule
 
 1. All images are supposed to be placed under the `images` folder directly.
